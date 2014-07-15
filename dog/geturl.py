@@ -43,7 +43,7 @@ def starturl(url):
 
 
 if __name__ == '__main__':
-    #starturl(url)
+    starturl(url)
     #dir(r)
     #get_html('http://www.baidu.com')
     print r.dbsize()
