@@ -25,5 +25,3 @@ congzi
  
 （5）Linux， 09年开始玩，很热爱开源， 最爱Ubuntu, arch, 目前常用ubuntu, Shell控，sublime控
 
-
-从黑暗的二流机械跳出来做码奴.
