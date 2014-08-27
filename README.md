@@ -25,3 +25,5 @@ congzi
  
 （5）Linux， 09年开始玩，很热爱开源， 最爱Ubuntu, arch, 目前常用ubuntu, Shell控，sublime控
 
+
+时间总是不够,我有很多的东西要做.
